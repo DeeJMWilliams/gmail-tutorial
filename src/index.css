@@ -1,8 +1,18 @@
+@font-face {
+  font-family: 'BebasNeue';
+  src: local('BebasNeue'),
+      url('./fonts/BebasNeue-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto'), url('./fonts/Roboto-Regular.ttf');
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  color: #333;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -10,4 +20,60 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.App {
+  background-color: #f4d336;
+  min-height: 100vh;
+}
+
+.body-tertiary {
+  background-color: #0c6ca9;
+}
+
+.page-body {
+  padding-top: 2em;
+  width: 60%;
+  min-width: 60%;
+  max-width: 90%;
+  min-height: 100vh;
+  margin: auto;
+  padding: 2em;
+  background-color: #f7f7f7;
+}
+
+.text-header {
+  color: #0c6ca9;
+  font-family: BebasNeue, Arial, Helvetica, sans-serif;
+}
+
+strong {
+  color: #0c6ca9;
+}
+
+.preview-img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid #f4d336;
+  display: block;
+  max-width: 70%;
+}
+
+.button {
+  background-color: #0c6ca9;
+  margin-bottom: 10px;
+}
+
+.accordion-button {
+  background-color: #f4d336 !important;
+  color: #0c6ca9;
+  font-family: BebasNeue, Arial, Helvetica, sans-serif;
+  font-size: 1.2rem !important;
+}
+
+.tip {
+  color: #b59807 !important;
+  font-weight: bold;
 }
