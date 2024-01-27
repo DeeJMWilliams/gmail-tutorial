@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.e31acbea.css",
-    "main.js": "/static/js/main.77725279.js",
-    "static/media/settings-preview.png": "/static/media/settings-preview.bb5ece5c535f89d651e6.png",
-    "static/media/signature-settings-preview.png": "/static/media/signature-settings-preview.ae68ea7af7cc6a07349b.png",
-    "static/media/linkedin-preview.png": "/static/media/linkedin-preview.f6f57f6d7b6f3fe8c67d.png",
-    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
-    "static/media/save-changes-preview.png": "/static/media/save-changes-preview.a2c5f2ce79fa6665d6c6.png",
-    "static/media/signature-defaults-preview.png": "/static/media/signature-defaults-preview.7c89446e7b9e9b43367d.png",
-    "static/media/propel-logo.png": "/static/media/propel-logo.cdc15a26ac3d8c1c8fbc.png",
-    "static/media/replace-preview.png": "/static/media/replace-preview.f7dd45bdf1473ba7dc4a.png",
-    "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
-    "static/media/pasted-signature-preview.png": "/static/media/pasted-signature-preview.44b7d2718e4f50aefe45.png",
-    "static/media/crop-preview.png": "/static/media/crop-preview.6c82cd90868baf9464c0.png",
-    "static/media/signature-editor-preview.png": "/static/media/signature-editor-preview.bc89839e29f23d44d21f.png",
-    "static/media/signature-preview.png": "/static/media/signature-preview.0c631aba2e5ad4cf5256.png",
-    "index.html": "/index.html",
-    "main.e31acbea.css.map": "/static/css/main.e31acbea.css.map",
-    "main.77725279.js.map": "/static/js/main.77725279.js.map"
+    "main.css": "/gmail-tutorial/static/css/main.391baa2e.css",
+    "main.js": "/gmail-tutorial/static/js/main.4ef151ac.js",
+    "static/media/settings-preview.png": "/gmail-tutorial/static/media/settings-preview.bb5ece5c535f89d651e6.png",
+    "static/media/signature-settings-preview.png": "/gmail-tutorial/static/media/signature-settings-preview.ae68ea7af7cc6a07349b.png",
+    "static/media/linkedin-preview.png": "/gmail-tutorial/static/media/linkedin-preview.f6f57f6d7b6f3fe8c67d.png",
+    "static/media/Roboto-Regular.ttf": "/gmail-tutorial/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/save-changes-preview.png": "/gmail-tutorial/static/media/save-changes-preview.a2c5f2ce79fa6665d6c6.png",
+    "static/media/signature-defaults-preview.png": "/gmail-tutorial/static/media/signature-defaults-preview.7c89446e7b9e9b43367d.png",
+    "static/media/propel-logo.png": "/gmail-tutorial/static/media/propel-logo.cdc15a26ac3d8c1c8fbc.png",
+    "static/media/replace-preview.png": "/gmail-tutorial/static/media/replace-preview.f7dd45bdf1473ba7dc4a.png",
+    "static/media/BebasNeue-Regular.ttf": "/gmail-tutorial/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/pasted-signature-preview.png": "/gmail-tutorial/static/media/pasted-signature-preview.44b7d2718e4f50aefe45.png",
+    "static/media/crop-preview.png": "/gmail-tutorial/static/media/crop-preview.6c82cd90868baf9464c0.png",
+    "static/media/signature-editor-preview.png": "/gmail-tutorial/static/media/signature-editor-preview.bc89839e29f23d44d21f.png",
+    "static/media/signature-preview.png": "/gmail-tutorial/static/media/signature-preview.0c631aba2e5ad4cf5256.png",
+    "index.html": "/gmail-tutorial/index.html",
+    "main.391baa2e.css.map": "/gmail-tutorial/static/css/main.391baa2e.css.map",
+    "main.4ef151ac.js.map": "/gmail-tutorial/static/js/main.4ef151ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.e31acbea.css",
-    "static/js/main.77725279.js"
+    "static/css/main.391baa2e.css",
+    "static/js/main.4ef151ac.js"
   ]
 }
