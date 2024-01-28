@@ -45,7 +45,7 @@ const step2Content = (
         <p>Finally, you’re going to replace the placeholder picture with a picture of you. This should be a photo that represents you professionally, and preferably shows you in good lighting from the shoulders up. The size of the picture doesn’t matter, as long as it’s at least 100x100 pixels. Make sure you have the picture downloaded on your computer, then right-click on the placeholder image, select <strong>Replace image</strong> from the menu, and choose the option <strong>Upload from computer. Find the download location of your image and submit.</strong></p>
         <img className='preview-img' src={replacePreview} alt='' />
         <p>If the image looks good, you can move on to the next step. If you’re using a non-square image and it got cropped strangely (it might look off-center, or part of your face might be cut off in the image), right click on the image again and click <strong>Crop image.</strong></p>
-        <img className='preview=img' src={cropPreview} alt='' />
+        <img className='preview-img' src={cropPreview} alt='' />
         <p>You can drag the image around until it’s positioned correctly within the square. Once you have it where you want it, click anywhere else on the page. Now your signature should be fully personalized!</p>
     </>
 )
