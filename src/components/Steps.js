@@ -92,4 +92,6 @@ const step4 = {
     content: step4Content
 }
 
-export {step0, step1, step2, step3, step4}
+const Steps = [step0, step1, step2, step3, step4]
+
+export default Steps;
