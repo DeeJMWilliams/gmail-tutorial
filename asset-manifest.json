@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gmail-tutorial/static/css/main.391baa2e.css",
-    "main.js": "/gmail-tutorial/static/js/main.94a6f83f.js",
+    "main.js": "/gmail-tutorial/static/js/main.150a37c4.js",
     "static/media/settings-preview.png": "/gmail-tutorial/static/media/settings-preview.bb5ece5c535f89d651e6.png",
     "static/media/signature-settings-preview.png": "/gmail-tutorial/static/media/signature-settings-preview.ae68ea7af7cc6a07349b.png",
     "static/media/linkedin-preview.png": "/gmail-tutorial/static/media/linkedin-preview.f6f57f6d7b6f3fe8c67d.png",
@@ -17,10 +17,10 @@
     "static/media/signature-preview.png": "/gmail-tutorial/static/media/signature-preview.0c631aba2e5ad4cf5256.png",
     "index.html": "/gmail-tutorial/index.html",
     "main.391baa2e.css.map": "/gmail-tutorial/static/css/main.391baa2e.css.map",
-    "main.94a6f83f.js.map": "/gmail-tutorial/static/js/main.94a6f83f.js.map"
+    "main.150a37c4.js.map": "/gmail-tutorial/static/js/main.150a37c4.js.map"
   },
   "entrypoints": [
     "static/css/main.391baa2e.css",
-    "static/js/main.94a6f83f.js"
+    "static/js/main.150a37c4.js"
   ]
 }
